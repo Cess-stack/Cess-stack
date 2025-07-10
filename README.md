@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 Kia ora! I'm Celesse Taplin
 
-<!--
-**Cess-stack/Cess-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer | Practical problem-solver | Creatively hands-on
 
-Here are some ideas to get you started:
+🔧 Tech Stack: React · Node.js · MongoDB · Express · REST APIs  
+🧠 Learning more about AI integrations like OpenAI & Custom Vision  
+👩‍💻 Currently building polished, user-first web tools at Mission Ready HQ  
+🌱 Passionate about clean design, modular components, and collaborative development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Values I Bring
+- Manaakitanga | Care for users and collaborators  
+- Whanaungatanga | Strong relationships and team spirit  
+- Kotahitanga | Working with unity toward shared goals
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/celesse-taplin1/) |
