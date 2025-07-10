@@ -1,6 +1,7 @@
 # 💫 Kia ora! I'm Celesse Taplin
 
 Junior Full Stack Developer | Practical problem-solver | Creatively hands-on
+
 I thrive under pressure, love tough bugs, and I believe the best software is built through collaboration and curiosity. 
 
 🔧 Tech Stack: React · Node.js · MongoDB · Express · REST APIs  
